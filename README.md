@@ -5,3 +5,4 @@ This kit gives the boiler plate for working on reactjs with VSCODE on MacOS.
 Hope you enjoy using it.
 <br>
 Feel free to pour in ways to improve and also support for other OS.
+<b>Have a great day :)</b>
